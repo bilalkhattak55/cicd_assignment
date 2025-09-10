@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hello World from Bilal Khattak and Muzammil Bilwani"
+echo "Hello World from ${MY_NAME:-Bilal Khattak} and ${SIR_NAME:-Muzammil Bilwani}"
