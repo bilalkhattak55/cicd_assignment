@@ -10,9 +10,9 @@ jobs:
     run-script:
         runs-on: ubuntu-latest
 
-        env:                      
-          MY_NAME: ${{ secrets.MY_NAME }}
-          SIR_NAME: ${{ secrets.SIR_NAME }}
+        #env:                      
+          #MY_NAME: ${{ secrets.MY_NAME }}
+          #SIR_NAME: ${{ secrets.SIR_NAME }}
 
         steps:
             - name: Checkout Code
