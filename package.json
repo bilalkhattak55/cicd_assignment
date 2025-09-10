@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "lint": "lint...",
-    "test": "Testing..."
+    "lint": "echo 'lint...'",
+    "test": "echo 'Testing...'"
   },
   "keywords": [],
   "author": "",
